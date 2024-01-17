@@ -76,9 +76,12 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 1. Run the command **pwd** . ***(1 mark)*** ``` @Waazify -> /workspaces/OSProject (main) $ pwd ---> /workspaces/OSProject```.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__.
-<image src='./image.png'/>
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197112519643385886/image.png?ex=65ba14e9&is=65a79fe9&hm=d501c8e6cbeef2dc60bfb99efcd07e0dd7371ce7f1ea1fac11673bf2cdf714f6&=&format=webp&quality=lossless'>
 3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
+  <img src='./num7.png'>
 4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
+  <img src='./num81.png'>
+  <img src='./num82.png'>
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
