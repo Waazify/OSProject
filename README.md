@@ -109,14 +109,25 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
   <img src='https://media.discordapp.net/attachments/789297686012493865/1197117612170170368/image.png?ex=65ba19a8&is=65a7a4a8&hm=eb70facbe314f05c37ae27d9139ca98431940600d766e58b81dc7dedb646ec71&=&format=webp&quality=lossless'>
 
-11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
-12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
-14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
-15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+11. What is the available free memory in the system. ***(1 mark)*** .
+  **5.9GB**
 
+12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
+  **17GB**
+
+13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
+  **Linux x86_64**
+14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
+**The ls command is used to list the files and directories in a Linux system. The ls -asl command is a combination of three options: -a, -s, and -l. Each option adds some extra information to the output of the ls command**
+
+15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+  **2560 4K Pages**
+
+16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+  **2730.192 MHz**
+
+17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+  **/vscode/bin/linux-x64/0ee08**
 ## Running your own container instance.
 
 1. At the terminal, run a linux instance. By typing the following command. 
