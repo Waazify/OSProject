@@ -78,7 +78,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 ```bash 
 @Waazify -> /workspaces/OSProject (main) $ pwd 
 /workspaces/OSProject
-```.
+```
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__.
   <img src='https://media.discordapp.net/attachments/789297686012493865/1197112519643385886/image.png?ex=65ba14e9&is=65a79fe9&hm=d501c8e6cbeef2dc60bfb99efcd07e0dd7371ce7f1ea1fac11673bf2cdf714f6&=&format=webp&quality=lossless'>
 
@@ -108,7 +108,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
   <img src='https://media.discordapp.net/attachments/789297686012493865/1197117612170170368/image.png?ex=65ba19a8&is=65a7a4a8&hm=eb70facbe314f05c37ae27d9139ca98431940600d766e58b81dc7dedb646ec71&=&format=webp&quality=lossless'>
-  
+
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
