@@ -74,20 +74,41 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
-1. Run the command **pwd** . ***(1 mark)*** ``` @Waazify -> /workspaces/OSProject (main) $ pwd ---> /workspaces/OSProject```.
+1. Run the command **pwd** . ***(1 mark)*** 
+```bash 
+@Waazify -> /workspaces/OSProject (main) $ pwd 
+/workspaces/OSProject
+```.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__.
   <img src='https://media.discordapp.net/attachments/789297686012493865/1197112519643385886/image.png?ex=65ba14e9&is=65a79fe9&hm=d501c8e6cbeef2dc60bfb99efcd07e0dd7371ce7f1ea1fac11673bf2cdf714f6&=&format=webp&quality=lossless'>
+
 3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-  <img src='./num7.png'>
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197113428729401375/image.png?ex=65ba15c2&is=65a7a0c2&hm=459df97b6a288484ba71c3d878a61afa4f56f9684b7fc406321981021df81f1d&=&format=webp&quality=lossless'>
+
 4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
-  <img src='./num81.png'>
-  <img src='./num82.png'>
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197113954909028462/image.png?ex=65ba1640&is=65a7a140&hm=ad5d7798f7085c23269646fa46545cd311c2e8585ecff70b860a789f245a824d&=&format=webp&quality=lossless&width=185&height=471'>
+
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197113818413805640/image.png?ex=65ba161f&is=65a7a11f&hm=a4ed10485e7f09cb4908ff813738583c336a229cd301045eadb3025012a567a0&=&format=webp&quality=lossless&width=239&height=471'>
+
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197114418731954216/image.png?ex=65ba16ae&is=65a7a1ae&hm=0960f7d7102a69d813d3f949e9e772990fbc6d409c17f9c8e72cdc8235443c5c&=&format=webp&quality=lossless'>\
+
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197116523932811264/image.png?ex=65ba18a4&is=65a7a3a4&hm=ec2dd267d7c3b3a1193ad7ac45fcba1123258e4f2b3711d70d340215f4bbdecc&=&format=webp&quality=lossless'>
+
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197116945837850654/image.png?ex=65ba1909&is=65a7a409&hm=02108bd7a3fda8af0a182501f33f8335cbb5bc5eab84c3778d04c6e374e9a1d7&=&format=webp&quality=lossless'>
+
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
+ <img src='https://media.discordapp.net/attachments/789297686012493865/1197117181675175996/image.png?ex=65ba1941&is=65a7a441&hm=b5b7572377e58ec617200eefee146f9d559b5ce727829e9a72d603d1be923a1f&=&format=webp&quality=lossless&width=963&height=469'>
+ <img src='https://media.discordapp.net/attachments/789297686012493865/1197117236557643806/image.png?ex=65ba194e&is=65a7a44e&hm=98e063509fe00afc91a9c2d458ee7c680ef2dad4c1311af5f60d85a6de17a8e9&=&format=webp&quality=lossless&width=963&height=257'>
+
 9. Run the command **top** a type **q** to quit. ***(1 mark)*** __Fill answer here__.
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197117473846206524/image.png?ex=65ba1987&is=65a7a487&hm=7f23a51d0eab3f80710a3c278f6efdf23b4488ed98686c0fe7048acd0e6644fe&=&format=webp&quality=lossless'>
+
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
+  <img src='https://media.discordapp.net/attachments/789297686012493865/1197117612170170368/image.png?ex=65ba19a8&is=65a7a4a8&hm=eb70facbe314f05c37ae27d9139ca98431940600d766e58b81dc7dedb646ec71&=&format=webp&quality=lossless'>
+  
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
